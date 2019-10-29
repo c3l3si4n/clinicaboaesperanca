@@ -1,0 +1,63 @@
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe.config
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.pdb
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csprojAssemblyReference.cache
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Form1.resources
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Properties.Resources.resources
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.exe
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.pdb
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.PaginaInicial.resources
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\BDGerenciador.dll
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\MySql.Data.dll
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CopyComplete
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.dll
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.pdb
+C:\Users\Alunos\source\repos\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.xml
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe.config
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.pdb
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\BDGerenciador.dll
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\MySql.Data.dll
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.dll
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.pdb
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.xml
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Form1.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.PaginaInicial.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Properties.Resources.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CopyComplete
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.exe
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.pdb
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.registrationForm.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Pacientes.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Medicos.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\bin\Debug\unknownPicture.png
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Horarios.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.exe
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.pdb
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\unknownPicture.png
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe.config
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.exe
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\Clinica Medica.pdb
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\BDGerenciador.dll
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.dll
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.pdb
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\bin\Debug\WindowsFormsAero.xml
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Form1.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Horarios.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Medicos.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Pacientes.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.PaginaInicial.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Properties.Resources.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.registrationForm.resources
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica Medica.csproj.CopyComplete
+C:\Users\user\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Form2.resources
+C:\Users\Alunos\Desktop\Clinica Medica\Clinica Medica\obj\Debug\Clinica_Medica.Form2.resources
